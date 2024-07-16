@@ -1,2 +1,12 @@
-# Unity_Shader_Practice
-유니티 물리 기반 셰이더 개발(Physically Based Shader Development For Unity) 책을 기반으로 셰이더 연습
+# Unity Shader
+
+<aside>
+🚨 간단한 그래픽스 내용은 적을 수 있지만, 심화 및 세부적인 내용은 이전에 다뤄봤으므로 생략한다. 세부적인 그래픽스는 아래 페이지에 있다. HLSL만 해보았던 셰이더 프로그래밍에서 Unity로 셰이더 프로그래밍을 해보디 좀 새롭다.
+</aside>
+
+# 유니티 셰이더 구성 
+[유니티 셰이더 뜯어보기](https://www.notion.so/ef6a58f8fb5e4d928a24d52378398fbf?pvs=21)
+
+# 실습
+
+[유니티 라이팅 셰이더 구현](https://www.notion.so/9a428738c1b24969872279386c10ed73?pvs=21)
